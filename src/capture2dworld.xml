@@ -1861,6 +1861,7 @@ function capture_yell(who, line)
     "If you'd like information on quests, please visit me at the Shrine of St. Wisehart!",
     "Unbreakable, level-scaling weapons for sale in the village's main street, near the Shrine!",
     "Come visit the Crystal Guild's hall near the cemetery"
+    "goldtacular Lottery Shoppe",
   }
 
   for i = 1, #omit_from_yell do
